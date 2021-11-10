@@ -1,6 +1,9 @@
 
     body {
-      background-color: #9e9793;
+      background:
+      linear-gradient(217deg, rgba(147,158,157,0.8), rgba(0,0,0,0) 70.71%),
+      linear-gradient(127deg, rgba(158,151,147,0.8), rgba(0,0,0,0) 70.71%),
+      linear-gradient(336deg, rgba(147,148,158,0.8), rgba(0,0,0,0) 70.71%);;
     }
 
     hr {
