@@ -1,9 +1,9 @@
 
     body {
       background:
-      linear-gradient(217deg, rgba(147,158,157,0.8), rgba(0,0,0,0) 70.71%),
-      linear-gradient(127deg, rgba(158,151,147,0.8), rgba(0,0,0,0) 70.71%),
-      linear-gradient(336deg, rgba(147,148,158,0.8), rgba(0,0,0,0) 70.71%);;
+      linear-gradient(217deg, rgba(86, 165, 158, 0.8), rgba(0,0,0,0) 70.71%),
+      linear-gradient(127deg, rgba(241, 168, 235, 0.8), rgba(0,0,0,0) 70.71%),
+      linear-gradient(336deg, rgba(7, 25, 221, 0.8), rgba(0,0,0,0) 70.71%);;
     }
 
     hr {
