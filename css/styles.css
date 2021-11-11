@@ -4,9 +4,10 @@
     body {
     
       background:
-      linear-gradient(217deg, rgba(86, 165, 158, 0.8), rgba(0,0,0,0) 70.71%),
-      linear-gradient(127deg, rgba(241, 168, 235, 0.8), rgba(0,0,0,0) 70.71%),
-      linear-gradient(336deg, rgba(7, 25, 221, 0.8), rgba(0,0,0,0) 70.71%);;
+      linear-gradient(217deg, rgba(144, 202, 197, 0.8), rgba(0,0,0,0) 70.71%),
+      linear-gradient(127deg, rgba(240, 197, 236, 0.8), rgba(0,0,0,0) 70.71%),
+      linear-gradient(336deg, rgba(92, 103, 226, 0.8), rgba(0,0,0,0) 70.71%);;
+      
     }
 
     hr {
@@ -18,10 +19,15 @@
     }
     h1 {
   color:#240433;
+  font-size: 45px;
+  font-family: sans-serif;
 
 }
 h3 {
   color: hsla(7, 67%, 42%, 0.8);
+  font-family: 'Cambria' ;
+  font-size: 22px;
+
 
 }
 #worktable{
@@ -41,4 +47,12 @@ h3 {
   justify-content: left;
 
   margin: 5px;
+}
+#heading{
+  font-family: sans-serif
+}
+.index-font{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  
 }
