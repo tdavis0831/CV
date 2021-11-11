@@ -1,5 +1,8 @@
-
+#contacthtml{
+  height:100%;
+}
     body {
+    
       background:
       linear-gradient(217deg, rgba(86, 165, 158, 0.8), rgba(0,0,0,0) 70.71%),
       linear-gradient(127deg, rgba(241, 168, 235, 0.8), rgba(0,0,0,0) 70.71%),
@@ -10,18 +13,25 @@
 
       border-style: none;
       border-top-style: dotted;
-      border-color: #9c939e;
-      width:100%;
+      border-color: #b82eb1;
+      width:300%;
     }
     h1 {
-  color:#949e93;
+  color:#240433;
 
 }
 h3 {
-  color: #939a9e;
+  color: hsla(7, 67%, 42%, 0.8);
 
 }
 #worktable{
   
   column-gap: 40px
+}
+
+#contact-body {
+  background:
+  linear-gradient(500deg, rgba(86, 165, 158, 0.8), rgba(0,0,0,0) 70.71%),
+  linear-gradient(1500deg, rgba(241, 168, 235, 0.8), rgba(0,0,0,0) 70.71%),
+  linear-gradient(336deg, rgba(7, 25, 221, 0.8), rgba(0,0,0,0) 70.71%);;
 }
