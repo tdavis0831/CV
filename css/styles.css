@@ -17,7 +17,7 @@
     hr {
 
       border-style: none;
-      border-top-style: dotted;
+      border-top-style:solid;
       border-color: #b82eb1;
       width:300%;
     }
