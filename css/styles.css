@@ -6,7 +6,10 @@
       background:
       linear-gradient(217deg, rgba(144, 202, 197, 0.8), rgba(0,0,0,0) 70.71%),
       linear-gradient(127deg, rgba(240, 197, 236, 0.8), rgba(0,0,0,0) 70.71%),
-      linear-gradient(336deg, rgba(92, 103, 226, 0.8), rgba(0,0,0,0) 70.71%);;
+      linear-gradient(336deg, rgba(92, 103, 226, 0.8), rgba(0,0,0,0) 70.71%);
+      height: 5000px; /* Make this site really long */
+  width: 5000px; /* Make this site really wide */
+  overflow: hidden; /* Hide scrollbars */
       
     }
 
